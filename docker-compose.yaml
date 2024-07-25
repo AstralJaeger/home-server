@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: mtraefik-network
+
+volumes:
+  config:
+
+  torrents:
+
+  downloads:
